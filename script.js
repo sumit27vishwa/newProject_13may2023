@@ -43,8 +43,8 @@ function removeFailedStudent() {
 function concatenateArray() {
   //Write your code here, just console.log
   let new_Arr = [
-    { id: 4, name: "ovaid", age: "24", marks: 90 },
-    { id: 5, name: "suhaib", age: "16", marks: 50 },
-    { id: 6, name: "tafim", age: "16", marks: 50 },
+    { id: 4, name: "sumit", age: "24", marks: 90 },
+    { id: 5, name: "deepak", age: "16", marks: 50 },
+    { id: 6, name: "dharmesh", age: "16", marks: 50 },
 
 }
